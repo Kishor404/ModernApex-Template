@@ -7,6 +7,38 @@
 .ooi{
     margin-right: 10%;
 }
+.uio{
+    text-align: justify;
+}
+.iop{
+    font-size: 15pt;
+}
+.yui li{
+    padding-bottom: 20px;
+}
+
+.plm{
+    display: flex;
+    background-color: rgb(238, 238, 238);
+    justify-content: space-evenly;
+    padding:10px;
+    font-family: verdana;
+    margin-top: 30px;
+}
+.oioi{
+    margin-left: 80px;
+}
+
+
+
+.uh{
+    font-size: 15pt;
+}
+.kjh{
+    padding-left: 82px;
+}
+
+
 /* .ooi p{
     padding-left: 20px;
 } */
